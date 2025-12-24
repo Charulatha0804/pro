@@ -1,3 +1,2 @@
 # pro
-python project
-This repository contains combined python and mysql projects.
+This repository contains python and mysql combined  projects.
